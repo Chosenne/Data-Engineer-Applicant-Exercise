@@ -1,29 +1,26 @@
 How many years of development experience do you have?
-1 year(Java). 2 years(SQL).
+
 
 How many years of JavaScript experience do you have?
-1 year
+
 
 How many years of Ruby experience do you have?
-1/2 year(s)
+
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-1 year(Python)
+
 
 What are your opinions on Agile software development?
-I think it is an ideal that is attainable, but at the same time the client has the final say, so I think a balance can be struck between this and waterfall. 
+
 
 TDD or BDD?
-I worked with BDD, where the clients requests were the main motivations in terms of future planning.
 
 Do you have any Ruby or Ruby on Rails experience?
-I was briefly part of a bootcamp which taught ruby on rails.
 
 What are you looking for in a job?
-I am looking for a job that allows me to challenge myself, and to grow my soft skills as well as my tech skills.
 
 Are you legal to work in the US?
-Yes I am. (US Citizen)
+
 
 When can you start?
-ASAP.
+
